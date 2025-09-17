@@ -1,6 +1,5 @@
 # reflink
-[![](http://meritbadge.herokuapp.com/reflink)](https://crates.io/crates/reflink)
-[![Build Status](https://travis-ci.org/nicokoch/reflink.svg?branch=master)](https://travis-ci.org/nicokoch/reflink)
+[![crates](https://img.shields.io/crates/v/reflink.svg)](https://crates.io/crates/reflink)
 
 Cross-platform(!) COW reflink copy of files
 
